@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Oso",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "marron",
+    "enfermedad": "pasado de bello"
+  },
+  {
+    "nombre": "Maki",
+    "edad": "14 años",
+    "tipo": "Gato",
+    "color": "Cafe",
+    "enfermedad": "enfermito"
+  },
+  {
+    "nombre": "Oso",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "marron",
+    "enfermedad": "pasado de bello"
+  }
+]

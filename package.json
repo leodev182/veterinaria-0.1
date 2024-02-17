@@ -1,0 +1,15 @@
+{
+  "name": "veterinaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "registrar": "node index.js registrar",
+    "leer": "node index.js leer ",
+    "borrar": "node index.js borrar"
+  },
+  "keywords": [],
+  "author": "leodev182.github.io",
+  "license": "ISC"
+}
