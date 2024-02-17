@@ -30,7 +30,7 @@ function leer() {
 function borrarCita(indice) {
   const citas = JSON.parse(fs.readFileSync("citas.json", "utf-8"));
   if (indice >= 0 && indice < citas.length) {
-    citas.splice(indice, 1); // Elimina la cita en el índice dado
+    citas.splice(indice, 1); // Elimina la cita en el índice especificado
     fs.writeFileSync("citas.json", JSON.stringify(citas, null, 2));
     console.log("Cita eliminada exitosamente.");
   } else {
